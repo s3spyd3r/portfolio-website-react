@@ -1,0 +1,15 @@
+{
+  "title": "Filipe Rodrigues | Mobile & Backend Developer | Portfolio",
+  "description": "Filipe Rodrigues - Senior Mobile and Backend Developer from Portugal. Expert in Flutter, Kotlin, C# and modern technologies. View my portfolio of mobile apps and web projects.",
+  "keywords": "Filipe Rodrigues, Mobile Developer, Backend Developer, Flutter Developer, Android Developer, Portugal, Software Engineer, Full Stack Developer",
+  "author": "Filipe Rodrigues",
+  "robots": "index, follow",
+  "og": {
+    "type": "website",
+    "title": "Filipe Rodrigues | Mobile & Backend Developer",
+    "description": "Senior Mobile and Backend Developer from Portugal. Expert in Flutter, Kotlin, C# and modern technologies.",
+    "url": "https://rodriguesfilipe.net"
+  },
+  "canonical": "https://rodriguesfilipe.net",
+  "themeColor": "#0891b2"
+}
