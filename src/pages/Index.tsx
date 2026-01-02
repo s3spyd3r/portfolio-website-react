@@ -19,11 +19,15 @@ const Index = () => {
         <meta name="author" content={metadata.author} />
         <meta name="robots" content={metadata.robots} />
         <meta property="og:type" content={metadata.og.type} />
+        <meta property="og:url" content={metadata.og.url} />
         <meta property="og:title" content={metadata.og.title} />
         <meta property="og:description" content={metadata.og.description} />
-        <meta property="og:url" content={metadata.og.url} />
-        <link rel="canonical" href={metadata.canonical} />
+        <meta property="og:image" content={metadata.og.image} />
         <meta name="theme-color" content={metadata.themeColor} />
+        <link rel="canonical" href={metadata.canonical} />
+        <script type="application/ld+json">
+          {JSON.stringify(metadata.structuredData)}
+        </script>
       </Helmet>
 
       <div className="min-h-screen bg-background">

@@ -1,16 +1,38 @@
 {
-  "title": "Filipe Rodrigues | Mobile & Backend Developer | Portfolio",
-  "description": "Filipe Rodrigues - Senior Mobile and Backend Developer from Portugal. Expert in Flutter, Kotlin, C# and modern technologies. View my portfolio of mobile apps and web projects.",
-  "keywords": "Filipe Rodrigues, Mobile Developer, Backend Developer, Flutter Developer, Android Developer, Portugal, Software Engineer, Full Stack Developer",
+  "title": "Filipe Rodrigues | Mobile & Backend Developer Portfolio",
+  "description": "Senior Mobile and Backend Developer from Portugal. Expert in Flutter, Kotlin, C# and modern web technologies. Over a decade of experience building mobile apps.",
+  "keywords": "Filipe Rodrigues, Mobile Developer, Backend Developer, Flutter, Kotlin, Android, Portugal, Software Engineer",
   "author": "Filipe Rodrigues",
   "robots": "index, follow",
   "og": {
     "type": "website",
+    "url": "https://rodriguesfilipe.net/",
     "title": "Filipe Rodrigues | Mobile & Backend Developer",
-    "description": "Senior Mobile and Backend Developer from Portugal. Expert in Flutter, Kotlin, C# and modern technologies.",
-    "url": "https://rodriguesfilipe.net"
+    "description": "Senior Mobile and Backend Developer from Portugal. Expert in Flutter, Kotlin and modern technologies.",
+    "image": "https://rodriguesfilipe.net/img/uploads/photo.png"
   },
-  "canonical": "https://rodriguesfilipe.net",
+  "canonical": "https://rodriguesfilipe.net/",
   "themeColor": "#0891b2",
-  "cvLink": "https://rodriguesfilipe.net/Rodrigues-EN.pdf"
+  "cvLink": "https://rodriguesfilipe.net/Rodrigues-EN.pdf",
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Filipe Rodrigues",
+    "jobTitle": "Senior Mobile Developer",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "TUI"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Matosinhos, Porto",
+      "addressCountry": "Portugal"
+    },
+    "email": "rodrigues.filipe@live.com.pt",
+    "url": "https://rodriguesfilipe.net",
+    "sameAs": [
+      "https://www.linkedin.com/in/frodrigues85/"
+    ],
+    "knowsAbout": ["Flutter", "Kotlin", "Android", "C#", "ASP.NET", "Mobile Development", "Backend Development"]
+  }
 }
