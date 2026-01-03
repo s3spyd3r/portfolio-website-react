@@ -1,0 +1,28 @@
+{
+  "skills": [
+    {
+      "icon": "Smartphone",
+      "title": "Mobile Apps",
+      "description": "Professional development of applications for Android and iOS.",
+      "technologies": ["Flutter", "Kotlin", "Java", "UWP"]
+    },
+    {
+      "icon": "Server",
+      "title": "Backend Development",
+      "description": "High-performance backend services designed for scalability and seamless user experience.",
+      "technologies": ["C#", ".NET", "PHP", "REST APIs"]
+    },
+    {
+      "icon": "Globe",
+      "title": "Web Development",
+      "description": "High-quality development of sites at the professional level.",
+      "technologies": ["Blazor", "Html5", "JS", "ASP.NET"]
+    }
+  ],
+  "allTechBadges": [
+    "Flutter", "Kotlin", "Swift", "Java", "C#", "ASP.NET", "Blazor",
+    "PHP", "REST APIs", "Android", "iOS", "Windows Phone", "UWP",
+    "Git", "Firebase", "SQL", "Agile", ".NET", "HTML5", "JavaScript", "CSS",
+    "Bootstrap", "Dart", "jQuery", "BLoC"
+  ]
+}
