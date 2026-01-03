@@ -13,7 +13,6 @@
   },
   "canonical": "https://rodriguesfilipe.net/",
   "themeColor": "#0891b2",
-  "cvLink": "https://rodriguesfilipe.net/Rodrigues-EN.pdf",
   "structuredData": {
     "@context": "https://schema.org",
     "@type": "Person",

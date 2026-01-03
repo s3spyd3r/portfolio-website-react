@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Menu, X, Download } from 'lucide-react';
-import metadata from '../data/metadata.json';
+import profile from '../data/profile.json';
 
 const navLinks = [
   { href: '#about', label: 'About' },
@@ -67,7 +67,7 @@ export const Navbar = () => {
             </a>
           ))}
           <a
-            href={metadata.cvLink}
+            href={profile.cvLink}
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-4 py-2 bg-primary text-primary-foreground rounded-lg font-medium text-sm hover:opacity-90 transition-opacity"
@@ -106,7 +106,7 @@ export const Navbar = () => {
             </a>
           ))}
           <a
-            href={metadata.cvLink}
+            href={profile.cvLink}
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-center gap-2 px-4 py-3 bg-primary text-primary-foreground rounded-lg font-medium hover:opacity-90 transition-opacity mt-2"
