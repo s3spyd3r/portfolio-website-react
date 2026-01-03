@@ -1,5 +1,5 @@
 import { Linkedin, Github, Heart } from 'lucide-react';
-import profile from '../data/profile.json';
+import profile from '@/data/profile.json';
 
 export const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -12,14 +12,14 @@ export const Footer = () => {
           <div className="text-center md:text-left">
             <p className="text-2xl font-bold text-gradient mb-2">{profile.name}</p>
             <p className="text-muted-foreground text-sm flex items-center justify-center md:justify-start gap-1">
-              © {currentYear} Made with <Heart size={14} className="text-primary" /> in {profile.country}
+              © {currentYear} Made with <Heart size={14} className="text-primary" /> in {profile.infoItems.find(item => item.label === 'Country')?.value}
             </p>
           </div>
 
           {/* Social Links */}
           <div className="flex items-center gap-4">
             <a
-              href={profile.linkedin}
+              href={profile.socialLinks.find(item => item.name === 'linkedin')?.href}
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-secondary hover:bg-primary hover:text-primary-foreground rounded-lg transition-all duration-300 group"
@@ -28,7 +28,7 @@ export const Footer = () => {
               <Linkedin size={20} className="group-hover:scale-110 transition-transform" />
             </a>
             <a
-              href={profile.github}
+              href={profile.socialLinks.find(item => item.name === 'github')?.href}
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-secondary hover:bg-primary hover:text-primary-foreground rounded-lg transition-all duration-300 group"

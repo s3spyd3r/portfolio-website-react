@@ -1,6 +1,6 @@
 import { Award, Calendar, ExternalLink } from 'lucide-react';
 import { ScrollReveal } from './ScrollReveal';
-import certificates from '../data/certificates.json';
+import certificates from '@/data/certificates.json';
 
 export const CertificatesSection = () => {
   return (

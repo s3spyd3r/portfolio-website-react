@@ -1,9 +1,18 @@
 {
   "name": "Filipe Rodrigues",
-  "email": "rodrigues.filipe@live.com.pt",
-  "country": "Portugal",
-  "city": "Matosinhos, Porto",
-  "linkedin": "https://www.linkedin.com/in/frodrigues85",
-  "github": "https://github.com/s3spyd3r",
-  "cvLink": "https://rodriguesfilipe.net/Rodrigues-EN.pdf"
+  "title": "Mobile and Backend Developer",
+  "cvLink": "https://rodriguesfilipe.net/Rodrigues-EN.pdf",
+  "about": "Hello! I'm Filipe Rodrigues. I love to build tricky and complex UI's for your Mobile apps. Give me visual challenges and I'll be a happy camper. I've got experience as a Mobile and FullStack Developer. Knowing both fields helps me to see problems with unique perspective. Over the years I have developed and launched many Mobile apps to the App Store.",
+  "socialLinks": [
+    { "name": "linkedin", "href": "https://www.linkedin.com/in/frodrigues85", "label": "LinkedIn" },
+    { "name": "github", "href": "https://github.com/s3spyd3r", "label": "GitHub" },
+    { "name": "twitter", "href": "https://twitter.com/s3spyd3r", "label": "Twitter" },
+    { "name": "facebook", "href": "https://www.facebook.com/filipe.rodrigues85", "label": "Facebook" }
+  ],
+  "infoItems": [
+    { "label": "Location", "value": "Matosinhos, Porto" },
+    { "label": "Country", "value": "Portugal" },
+    { "label": "E-mail", "value": "rodrigues.filipe@live.com.pt", "href": "mailto:rodrigues.filipe@live.com.pt" },
+    { "label": "Birthday", "value": "27/12/1985" }
+  ]
 }

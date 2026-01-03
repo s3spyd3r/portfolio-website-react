@@ -1,6 +1,6 @@
 import { GraduationCap, Calendar } from 'lucide-react';
 import { ScrollReveal } from './ScrollReveal';
-import educationData from '../data/education.json';
+import educationData from '@/data/education.json';
 
 export const EducationSection = () => {
   return (

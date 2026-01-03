@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Menu, X, Download } from 'lucide-react';
-import profile from '../data/profile.json';
+import profile from '@/data/profile.json';
 
 const navLinks = [
   { href: '#about', label: 'About' },
