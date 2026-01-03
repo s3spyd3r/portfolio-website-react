@@ -1,0 +1,55 @@
+[
+  {
+    "period": "2025 -",
+    "company": "TUI",
+    "role": "Senior Mobile Developer",
+    "location": "Remote",
+    "technologies": ["Android Phone (Flutter)", "iOS Phone (Flutter)"],
+    "description": "Currently porting hotel and resort web apps to Flutter, delivering cross-platform mobile experiences focused on performance, usability, and a native-like feel.",
+    "logo": "/assets/tui.jpg"
+  },
+  {
+    "period": "2019 - 2025",
+    "company": "Itoorer",
+    "role": "Mobile and FullStack Developer",
+    "location": "Remote",
+    "technologies": ["Android Phone (Flutter, Kotlin)", "iOS Phone (Flutter, Swift)", "REST APIs (C#, Asp.net, Blazor)", "Frontend Web (C#, Blazor)"],
+    "description": "Developed cross-platform mobile applications and web platforms, with a focus on eSIM activation, travel connectivity, and retail experiences.",
+    "logo": "/assets/itoorer.jpg"
+  },
+  {
+    "period": "2018 - 2019",
+    "company": "Wellfound (AngelList Talent)",
+    "role": "Mobile Software Developer",
+    "location": "Remote",
+    "technologies": ["Android (Kotlin)"],
+    "description": "Developed an app for a startup focused on booking nightlife events, with features for browsing, reserving, and managing event entries.",
+    "logo": "/assets/wellfound.jpg"
+  },
+  {
+    "period": "2017 - 2018",
+    "company": "Thing Pink",
+    "role": "Backend Developer",
+    "location": "Vila Nova de Gaia, Portugal",
+    "technologies": ["Backend API (PHP)"],
+    "description": "Built backend features for a delivery app used at live events, focusing on real-time ordering and API development.",
+    "logo": "/assets/tp.jpg"
+  },
+  {
+    "period": "2015 - 2017",
+    "company": "Thing Pink",
+    "role": "Mobile Software Developer",
+    "location": "Vila Nova de Gaia, Portugal",
+    "technologies": ["Windows Phone (C#)", "Universal Windows Apps (C#)"],
+    "description": "Worked on a range of mobile apps for music festivals, food brands, and entertainment platforms. Focused on delivering smooth, engaging user experiences across the Universal Windows Platform.",
+    "logo": "/assets/tp.jpg"
+  },
+  {
+    "period": "2014 - 2015",
+    "company": "Freelancer",
+    "role": "Mobile Software Developer",
+    "location": "Porto, Portugal",
+    "technologies": ["Android (Java)", "Windows Phone (C#)"],
+    "description": "Developed apps for small businesses, helping them build a presence in the mobile space with tailored, functional solutions."
+  }
+]
