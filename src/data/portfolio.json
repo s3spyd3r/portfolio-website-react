@@ -71,7 +71,7 @@
     "link": "https://play.google.com/store/apps/details?id=com.s3spyd3r.salesforsteam"
   },
   {
-    "images": ["/assets/portfolio/seatnew.jpg"],
+    "images": ["/assets/portfolio/seatnew.jpg", "/assets/portfolio/seat1.jpg", "/assets/portfolio/seat2.png", "/assets/portfolio/seat3.png", "/assets/portfolio/seat4.png"],
     "title": "Seat Delivery",
     "tech": "Backend API",
     "company": "Thing Pink",
@@ -79,7 +79,7 @@
     "category": "Web"
   },
   {
-    "images": ["/assets/portfolio/vitam.jpg"],
+    "images": ["/assets/portfolio/vitam.jpg", "/assets/portfolio/vit2.jpg", "/assets/portfolio/vit3.jpg", "/assets/portfolio/vit4.jpg"],
     "title": "Vitaminas",
     "tech": "Windows Phone 8.1",
     "company": "Thing Pink",
@@ -121,7 +121,7 @@
     "link": "https://play.google.com/store/apps/details?id=com.s3spyd3r.Adventure_Viking"
   },
   {
-    "images": ["/assets/portfolio/h3new.jpg"],
+    "images": ["/assets/portfolio/h3new.jpg", "/assets/portfolio/h31.jpg", "/assets/portfolio/h32.jpg", "/assets/portfolio/h33.jpg", "/assets/portfolio/h36.jpg"],
     "title": "H3",
     "tech": "Windows 8.1 & Windows Phone 8.1",
     "company": "Thing Pink",
@@ -129,7 +129,7 @@
     "category": "Mobile"
   },
   {
-    "images": ["/assets/portfolio/mv2k6.jpg"],
+    "images": ["/assets/portfolio/mv2k6.jpg", "/assets/portfolio/mv3.jpg", "/assets/portfolio/mv4.jpg", "/assets/portfolio/mv5.jpg", "/assets/portfolio/mv6.jpg"],
     "title": "MEO Marés Vivas 2016",
     "tech": "Windows Phone 8",
     "company": "Thing Pink",
