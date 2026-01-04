@@ -1,0 +1,163 @@
+[
+  {
+    "images": ["/assets/portfolio/carrefour.jpg"],
+    "title": "Carrefour eSIM",
+    "tech": "FullStack",
+    "company": "Itoorer",
+    "description": "Carrefour-branded eSIM platform providing prepaid data for travelers, with easy QR code activation and local connectivity in 100+ countries.",
+    "category": "Web",
+    "link": "https://esim.carrefour.com"
+  },
+  {
+    "images": ["/assets/portfolio/aerow.jpg"],
+    "title": "Aerow",
+    "tech": "Flutter",
+    "company": "Itoorer",
+    "description": "BICS enabled eSIM app and web platform for travelers, offering plan purchases for 100+ countries and easy activation for roaming-free data.",
+    "category": "Mobile",
+    "link": "https://aerow.app"
+  },
+  {
+    "images": ["/assets/portfolio/sixt.jpg"],
+    "title": "Sixt eSIM",
+    "tech": "FullStack",
+    "company": "Itoorer",
+    "description": "eSIM platform for SIXT car rental clients, enabling code redemption, easy installation, and activation for seamless mobile data across 34 countries.",
+    "category": "Web",
+    "link": "https://sixt.itoorer.com/"
+  },
+  {
+    "images": ["/assets/portfolio/estoril.jpg"],
+    "title": "Estoril Open 2024",
+    "tech": "Android",
+    "company": "InnoWave (Outsourcing)",
+    "description": "Tennis app for Millennium Estoril Open 2024, featuring live scores, match schedules, player profiles and venue maps.",
+    "category": "Mobile"
+  },
+  {
+    "images": ["/assets/portfolio/orb1.jpg"],
+    "title": "Orbister",
+    "tech": "FullStack",
+    "company": "Itoorer",
+    "description": "Travel Web platform offering eSIM plans for 150+ destinations, with VoIP calls, city insights, and instant activation for cost-free global connectivity.",
+    "category": "Web",
+    "link": "https://orbister.app"
+  },
+  {
+    "images": ["/assets/portfolio/orb2.jpg"],
+    "title": "Orbister",
+    "tech": "Flutter",
+    "company": "Itoorer",
+    "description": "Travel app offering eSIM plans for 150+ destinations, with VoIP calls, city insights, and instant activation for cost-free global connectivity.",
+    "category": "Mobile",
+    "link": "https://orbister.app"
+  },
+  {
+    "images": ["/assets/portfolio/connect.jpg", "/assets/portfolio/con2.jpg"],
+    "title": "Hertz Connect",
+    "tech": "Android",
+    "company": "Itoorer",
+    "description": "Custom app ecosystem for Hertz rented Android device, offering 4G Wi-Fi hotspot, VoIP dialer, GPS navigation and city guides worldwide.",
+    "category": "Mobile",
+    "link": "https://www.hertz.com.sg/rentacar/productservice/index.jsp?targetPage=connect.jsp"
+  },
+  {
+    "images": ["/assets/portfolio/sales.jpg"],
+    "title": "Sales for Gaming",
+    "tech": "Android",
+    "company": "Freelancer",
+    "description": "App for gamers to find discounts on PC games via Steam, a popular digital gaming platform, covering indie and blockbuster.",
+    "category": "Mobile",
+    "link": "https://play.google.com/store/apps/details?id=com.s3spyd3r.salesforsteam"
+  },
+  {
+    "images": ["/assets/portfolio/seatnew.jpg"],
+    "title": "Seat Delivery",
+    "tech": "Backend API",
+    "company": "Thing Pink",
+    "description": "In-stadium service for FC Porto fans, enabling seamless ordering of food, drinks, and merchandise directly to their seats during matches.",
+    "category": "Web"
+  },
+  {
+    "images": ["/assets/portfolio/vitam.jpg"],
+    "title": "Vitaminas",
+    "tech": "Windows Phone 8.1",
+    "company": "Thing Pink",
+    "description": "Loyalty app for Multifood Group Vitaminas, Wok to Walk, Talho Burger, and Capri, offering shared rewards, meal customization, mobile payments, and direct kitchen updates for customers.",
+    "category": "Mobile"
+  },
+  {
+    "images": ["/assets/portfolio/fcp3.jpg"],
+    "title": "FC Porto",
+    "tech": "Windows Phone 8.1",
+    "company": "Thing Pink",
+    "description": "Official FC Porto app providing live match updates, squad info, ticketing, and exclusive content for fans.",
+    "category": "Mobile",
+    "link": "https://app.fcporto.pt"
+  },
+  {
+    "images": ["/assets/portfolio/infowp.jpg"],
+    "title": "infoCombustivel",
+    "tech": "Windows 8.1 & Windows Phone 8.1",
+    "company": "Freelancer",
+    "description": "Fuel app for finding the nearest and most cost-effective gas stations in Portugal, using real-time price data from the Direção Geral de Energia e Geologia.",
+    "category": "Mobile"
+  },
+  {
+    "images": ["/assets/portfolio/gng.jpg"],
+    "title": "GNG",
+    "tech": "Windows Phone 8.1",
+    "company": "Thing Pink",
+    "description": "Fashion-retail app for GNG Levis, G-Star Raw and Dockers stores, featuring fashion news and a loyalty platform with exclusive campaigns, vouchers and gifts.",
+    "category": "Mobile"
+  },
+  {
+    "images": ["/assets/portfolio/and.jpg"],
+    "title": "Adventure Viking",
+    "tech": "Android",
+    "company": "Freelancer",
+    "description": "Puzzle game where players help a Viking and his lady navigate through 30 levels filled with obstacles and gravity-based challenges to return to their homeland.",
+    "category": "Mobile",
+    "link": "https://play.google.com/store/apps/details?id=com.s3spyd3r.Adventure_Viking"
+  },
+  {
+    "images": ["/assets/portfolio/h3new.jpg"],
+    "title": "H3",
+    "tech": "Windows 8.1 & Windows Phone 8.1",
+    "company": "Thing Pink",
+    "description": "App for H3 hamburger chain with real-time loyalty via QR codes, app-based gaming competition, and beacon-based offers & content.",
+    "category": "Mobile"
+  },
+  {
+    "images": ["/assets/portfolio/mv2k6.jpg"],
+    "title": "MEO Marés Vivas 2016",
+    "tech": "Windows Phone 8",
+    "company": "Thing Pink",
+    "description": "Festival app for Marés Vivas 2015 and 2016, delivering line-ups, venue maps and Instagram-connected Instameo for Portugal top northern music event.",
+    "category": "Mobile"
+  },
+  {
+    "images": ["/assets/portfolio/nosshare.jpg"],
+    "title": "NOS Share",
+    "tech": "Windows 8.1 & Windows Phone 8.1",
+    "company": "Thing Pink",
+    "description": "Social cloud app enabling seamless sharing of live streams, videos, photos and documents across devices (unreleased).",
+    "category": "Mobile"
+  },
+  {
+    "images": ["/assets/portfolio/sw2k6.jpg", "/assets/portfolio/sw2.jpg", "/assets/portfolio/sw3.jpg", "/assets/portfolio/sw4.jpg"],
+    "title": "MEO SW 2016",
+    "tech": "Windows Phone 8",
+    "company": "Thing Pink",
+    "description": "Festival app for Sudoeste 2015 and 2016, offering live line-ups, alerts, livestreaming, and social features like ride-sharing, matching users and chat.",
+    "category": "Mobile"
+  },
+  {
+    "images": ["/assets/portfolio/outj.jpg", "/assets/portfolio/out2.jpg", "/assets/portfolio/out3.jpg", "/assets/portfolio/out4.jpg", "/assets/portfolio/out5.jpg"],
+    "title": "MEO OutJazz 2015",
+    "tech": "Windows Phone 8",
+    "company": "Thing Pink",
+    "description": "Festival app for OutJazz 2015, keeping audiences up to date with artists performing in Lisbons gardens and green spaces, map of the gardens and accessibilities.",
+    "category": "Mobile"
+  }
+]

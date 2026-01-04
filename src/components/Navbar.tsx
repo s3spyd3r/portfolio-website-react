@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Menu, X, Download } from 'lucide-react';
 import profile from '@/data/profile.json';
+import { useIsMobile } from '@/hooks/use-mobile';
 
 const navLinks = [
   { href: '#about', label: 'About' },
@@ -14,6 +15,7 @@ const navLinks = [
 export const Navbar = () => {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const isMobile = useIsMobile();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -36,7 +38,7 @@ export const Navbar = () => {
   return (
     <nav
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-        isScrolled
+        isScrolled || isMobile
           ? 'py-3 bg-background/95 backdrop-blur-xl border-b border-border/50 shadow-lg shadow-background/50'
           : 'py-6 bg-transparent'
       }`}
@@ -90,7 +92,7 @@ export const Navbar = () => {
 
       {/* Mobile Menu */}
       <div
-        className={`lg:hidden absolute top-full left-0 right-0 bg-background/98 backdrop-blur-xl border-b border-border transition-all duration-300 ${
+        className={`lg:hidden absolute top-full left-0 right-0 bg-background border-b border-border transition-all duration-300 ${
           isMobileMenuOpen ? 'opacity-100 visible' : 'opacity-0 invisible'
         }`}
       >
