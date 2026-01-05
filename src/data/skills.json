@@ -21,7 +21,7 @@
   ],
   "allTechBadges": [
     "Flutter", "Kotlin", "Swift", "Java", "C#", "ASP.NET", "Blazor",
-    "PHP", "REST APIs", "Android", "iOS", "Windows Phone", "UWP",
+    "PHP", "REST APIs", "Android", "iOS", "Phalcon", "UWP",
     "Git", "Firebase", "SQL", "Agile", ".NET", "HTML5", "JavaScript", "CSS",
     "Bootstrap", "Dart", "jQuery", "BLoC"
   ]

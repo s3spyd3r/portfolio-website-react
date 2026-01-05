@@ -9,7 +9,7 @@
     "link": "https://esim.carrefour.com"
   },
   {
-    "images": ["/assets/portfolio/aerow.jpg"],
+    "images": ["/assets/portfolio/aerow.jpg", "/assets/portfolio/aerow2.jpg"],
     "title": "Aerow",
     "tech": "Flutter",
     "company": "Itoorer",
@@ -27,7 +27,7 @@
     "link": "https://sixt.itoorer.com/"
   },
   {
-    "images": ["/assets/portfolio/estoril.jpg"],
+    "images": ["/assets/portfolio/estoril.jpg", "/assets/portfolio/estoril3.png", "/assets/portfolio/estoril4.png", "/assets/portfolio/estoril5.png", "/assets/portfolio/estoril6.png"],
     "title": "Estoril Open 2024",
     "tech": "Android",
     "company": "InnoWave (Outsourcing)",
@@ -44,7 +44,7 @@
     "link": "https://orbister.app"
   },
   {
-    "images": ["/assets/portfolio/orb2.jpg"],
+    "images": ["/assets/portfolio/orb2.jpg", "/assets/portfolio/orb3.jpg", "/assets/portfolio/orb4.jpg"],
     "title": "Orbister",
     "tech": "Flutter",
     "company": "Itoorer",
@@ -96,7 +96,7 @@
     "link": "https://app.fcporto.pt"
   },
   {
-    "images": ["/assets/portfolio/infowp.jpg"],
+    "images": ["/assets/portfolio/infowp.jpg", "/assets/portfolio/info2.jpg", "/assets/portfolio/info3.jpg", "/assets/portfolio/info4.jpg"],
     "title": "infoCombustivel",
     "tech": "Windows 8.1 & Windows Phone 8.1",
     "company": "Freelancer",
@@ -104,7 +104,7 @@
     "category": "Mobile"
   },
   {
-    "images": ["/assets/portfolio/gng.jpg"],
+    "images": ["/assets/portfolio/gng.jpg", "/assets/portfolio/gng3.jpg", "/assets/portfolio/gng4.jpg", "/assets/portfolio/gng6.jpg"],
     "title": "GNG",
     "tech": "Windows Phone 8.1",
     "company": "Thing Pink",
@@ -137,7 +137,7 @@
     "category": "Mobile"
   },
   {
-    "images": ["/assets/portfolio/nosshare.jpg"],
+    "images": ["/assets/portfolio/nosshare.jpg", "/assets/portfolio/nosshare3.jpg", "/assets/portfolio/nosshare4.jpg", "/assets/portfolio/nosshare5.jpg", "/assets/portfolio/nosshare7.jpg"],
     "title": "NOS Share",
     "tech": "Windows 8.1 & Windows Phone 8.1",
     "company": "Thing Pink",
